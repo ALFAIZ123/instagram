@@ -1,0 +1,65 @@
+.box0 {
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden;
+    text-align: center;
+    line-height: 45px;
+    align-items: center;
+}
+
+.box {
+    /* border: 1px solid grey; */
+    width: 350px;
+    height: 550px;
+    /* box-shadow: 4px 4px 4px 4px grey; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 30px;
+    
+}
+
+.annumamu img {
+    width: 400px;
+    height: 600px;
+}
+
+.cols {
+    line-height: 3;
+
+}
+
+input {
+    width: 280px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+button {
+    width: 280px;
+    height: 29px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color: rgb(50, 89, 230);
+
+}
+
+a {
+    text-decoration-line: none;
+}
+
+.cols2 a {
+    font-size: 13px;
+}
+
+.cols1 {
+    color: grey;
+}
+
+#box5 {
+    width: 200px;
+    height: 400px;
+    padding-left: 60px;
+}
+
+h1 {
+    font-family: 'Aguafina Script', cursive;
+}
